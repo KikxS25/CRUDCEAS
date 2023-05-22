@@ -143,7 +143,7 @@ if (isset($_GET['mensaje'])) {
               <div class="bg-danger card-header text-light">
                 <p>Turnado al:</p>
                 <i class="fa-solid fa-user-tie"></i>
-                <span><b>Ing. Gildardo García Rodríguez</b></span>
+                <span><b>Pepito</b></span>
               </div>
               <div class="card">
               // Crea una cabecera con la dirección de la DOMCCA
